@@ -1,0 +1,18 @@
+// BGM/SEíËã` (SoundData.h)
+
+enum eBGM {
+	BGM_000 = 0,	// GAME1 BGM
+	BGM_111,		// TITLE BGM
+	BGM_001,		// 
+	BGM_002,		// 
+
+	MAX_BGM
+};
+
+enum eSE {
+	SE_SHOT = 0,	// íeî≠éÀâπ
+	SE_EXPLOSION,	// îöî≠âπ
+	SE_COIN,		// è’ìÀâπ0
+
+	MAX_SE
+};
